@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Advanced **Laravel** 
 
-- 📫 How to reach me **itsrizwannasir@gmail.com**
+- 📫 How to reach me **me@rizwannasir.link**
 <p align="right">
   <a href="https://github.com/RizwanNaasir"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=RizwanNaasir&show_icons=true" height="150" /></a>
 </p>
