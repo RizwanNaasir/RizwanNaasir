@@ -2,11 +2,11 @@
 
 You can call me **Rizwan**. I work with Laravel Ecosystem, and write to teach people how to rebuild and redefine fundamental concepts through mental models.
 
-| rizwannasir.link | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;silow.net&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| rizwannasir.com | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;silow.net&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |:-:|:-:|
-|<a href="https://rizwannasir.link"><img src="https://rizwannasir.link/social-image.png" alt="Screenshot of rizwannasir.link" width="400"></a><br />Find my projects and writings here<br /><br /><a href="https://rizwannasir.link">**Take A Peak**</a> | <a href="https://www.silow.net/"><img src="https://www.silow.net/_next/static/media/og.2738a450.png" alt="Screenshot of silow.net" width="400"></a><br />Best Code Practices<br /><br /><a href="https://www.silow.net">**Visit**</a> |
+|<a href="https://rizwannasir.com"><img src="https://rizwannasir.com/social-image.png" alt="Screenshot of rizwannasir.com" width="400"></a><br />Find my projects and writings here<br /><br /><a href="https://rizwannasir.com">**Take A Peak**</a> | <a href="https://www.silow.net/"><img src="https://www.silow.net/_next/static/media/og.2738a450.png" alt="Screenshot of silow.net" width="400"></a><br />Best Code Practices<br /><br /><a href="https://www.silow.net">**Visit**</a> |
 
-- 📫 How to reach me **me@rizwannasir.link**
+- 📫 How to reach me **me@rizwannasir.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
